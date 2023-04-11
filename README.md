@@ -1,2 +1,3 @@
-# DE-101
-Homework files for Data Engineering course by 'Data Learn'
+## COURSES
+
+- '''datalearn''' - [Data Engineering](https://github.com/Data-Learn/data-engineering) course by 'Data Learn'
