@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rmchrkv/courses/master?urlpath=https%3A%2F%2Fgithub.com%2Frmchrkv%2Fcourses%2Fblob%2Fmaster%2Fstatistics_basics%2Fweek2.ipynb)
+```Week 2``` JupyterLab Binder -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rmchrkv/courses/master?urlpath=lab%2Ftree%2Fstatistics_basics%2Fweek2.ipynb)
